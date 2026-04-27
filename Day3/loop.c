@@ -19,11 +19,11 @@
 
 //do-while loop
 
-#include<stdio.h>
-int main(){
-    int j=11;
-    do{
-        printf("fortune\n");
-    }
-    while (j<=10);
-}
+// #include<stdio.h>
+// int main(){
+//     int j=11;
+//     do{
+//         printf("fortune\n");
+//     }
+//     while (j<=10);
+// }

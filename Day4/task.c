@@ -37,7 +37,7 @@
 
 // #include <stdio.h>
 
-// void checkEvenOdd(int n) {
+// void checkevenodd(int n) {
 //     if(n % 2 == 0)
 //         printf("%d is Even", n);
 //     else
@@ -46,8 +46,7 @@
 
 // int main() {
 //     int num = 7;
-//     checkEvenOdd(num);
-//     return 0;
+//     checkevenodd(num);
 // }
 
 #include<stdio.h>

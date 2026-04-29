@@ -6,7 +6,11 @@ int update(int n){
 }
 int main(){
     int a=10;
+    int b=20;
     printf("before function call a=%d",a);
+    printf("\nbefore function call b=%d",b);
     update(a);
+    update(b);
     printf("\nafter function call a=%d",a);
+    printf("\nafter function call b=%d",b);
 }

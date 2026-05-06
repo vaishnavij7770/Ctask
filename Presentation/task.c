@@ -9,6 +9,15 @@
 //     }
 //     return 0;
 // }
+
+
+
+
+
+
+
+
+
 // #include <stdio.h>
 // int main() {
 //     int cartTotal;
@@ -23,6 +32,14 @@
 //     }
 //     return 0;
 // }
+
+
+
+
+
+
+
+
 // #include <stdio.h>
 // int main() {
 //     int light;   
@@ -41,6 +58,16 @@
 //     }
 //     return 0;
 // }
+
+
+
+
+
+
+
+
+
+
 #include <stdio.h>
 int main() {
     int plan;   

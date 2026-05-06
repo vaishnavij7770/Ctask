@@ -68,28 +68,28 @@
 
 
 
-#include <stdio.h>
-int main() {
-    int plan;   
+// #include <stdio.h>
+// int main() {
+//     int plan;   
 
-    printf("Enter your plan (1=Data, 2=Talktime, 3=Combo): ");
-    scanf("%d", &plan);
+//     printf("Enter your plan (1=Data, 2=Talktime, 3=Combo): ");
+//     scanf("%d", &plan);
 
-    switch(plan) {
-        case 1: 
-            printf("Data Pack Activated\n"); 
-            break;
-        case 2: 
-            printf("Talktime Pack Activated\n"); 
-            break;
-        case 3: 
-            printf("Combo Pack Activated\n"); 
-            break;
-        default: 
-            printf("Invalid Choice\n");
-    }
-    return 0;
-}
+//     switch(plan) {
+//         case 1: 
+//             printf("Data Pack Activated\n"); 
+//             break;
+//         case 2: 
+//             printf("Talktime Pack Activated\n"); 
+//             break;
+//         case 3: 
+//             printf("Combo Pack Activated\n"); 
+//             break;
+//         default: 
+//             printf("Invalid Choice\n");
+//     }
+//     return 0;
+// }
 
 
 
